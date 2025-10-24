@@ -1,0 +1,1 @@
+// removed: delegate stub no longer needed - ecommerce implementation is canonical
